@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto045</string>
+    <string name="radiosuma">Adicionar</string>
+    <string name="radioresta">subtrair</string>
+    <string name="botonoperacion">operar</string>
+</resources>
